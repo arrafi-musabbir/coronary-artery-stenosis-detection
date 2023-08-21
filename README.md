@@ -6,6 +6,9 @@ I followed this publication by Danilov et al. namely [Real-time coronary artery 
 # Methodology
 I utilized the object-detection-API by tensorflow to train our model and detect stenosis region of coronary artery. 
 
+# Result
+![result](https://github.com/arrafi-musabbir/coronary-artery-stenosis-detection/blob/main/featured.png)
+
 # Dataset
 Dataset is accessible by the following link: [Angiographic dataset for stenosis detection](https://data.mendeley.com/datasets/ydrm75xywg/1)[^2]
 
